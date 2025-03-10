@@ -1,0 +1,341 @@
+{
+  "lastUpdated": "2025-03-09",
+  "primaryInterfaces": [
+    {
+      "interface": "INetworkingRemoteEventsService",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IActorService",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IActor",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IAvatar",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "ISpaceContentService",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "ISpaceObject",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "ICameraService",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IVFXService",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "INetworkingService",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IEventService",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IAudioService",
+      "hasAllSections": true,
+      "lastVerified": "2024-03-06",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "ICoreGUIService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IUserWorldDataStoreService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IInventoryService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IQuestService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IInputService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "ILoggingService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "ISpaceService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IGraphicsService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IBadgeService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IMarketplaceService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "ICoreGUIShopService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "IAdService",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "interface": "SpatialBridge",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    }
+  ]
+}

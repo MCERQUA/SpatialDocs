@@ -1,0 +1,1009 @@
+{
+  "lastUpdated": "2025-03-09",
+  "completedSecondaryComponents": [
+    {
+      "component": "AdRequest",
+      "category": "Ad Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAdType",
+      "category": "Ad Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialCameraMode",
+      "category": "Camera Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialCameraRotationMode",
+      "category": "Camera Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "XRCameraMode",
+      "category": "Camera Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-08",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "ActorCustomPropertiesChangedEventArgs",
+      "category": "Actor Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "ActorJoinedEventArgs",
+      "category": "Actor Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "ActorLeftEventArgs",
+      "category": "Actor Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "ActorProfilePictureRequest",
+      "category": "Actor Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "AvatarRespawnEventArgs",
+      "category": "Actor Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "EquipAttachmentRequest",
+      "category": "Actor Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "ILocalActor",
+      "category": "Actor Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IReadOnlyAvatar",
+      "category": "Actor Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "CoreGUIUtility",
+      "category": "Core GUI Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": false,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialCoreGUIState",
+      "category": "Core GUI Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialCoreGUIType",
+      "category": "Core GUI Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialCoreGUITypeFlags",
+      "category": "Core GUI Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialMobileControlsGUITypeFlags",
+      "category": "Core GUI Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialSystemGUIType",
+      "category": "Core GUI Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IAvatarInputActionsListener",
+      "category": "Input Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": false,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IInputActionsListener",
+      "category": "Input Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": false,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "InputCaptureType",
+      "category": "Input Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "InputPhase",
+      "category": "Input Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IVehicleInputActionsListener",
+      "category": "Input Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": false,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "VehicleInputFlags",
+      "category": "Input Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "AddInventoryItemRequest",
+      "category": "Inventory Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "AwardWorldCurrencyRequest",
+      "category": "Inventory Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "DeleteInventoryItemRequest",
+      "category": "Inventory Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "GetInventoryItemRequest",
+      "category": "Inventory Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IInventoryItem",
+      "category": "Inventory Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "ItemType",
+      "category": "Inventory Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "UseInventoryItemRequest",
+      "category": "Inventory Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IQuest",
+      "category": "Quest Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IQuestTask",
+      "category": "Quest Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": true,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IReward",
+      "category": "Quest Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "QuestStatus",
+      "category": "Quest Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "QuestTaskType",
+      "category": "Quest Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "RewardType",
+      "category": "Quest Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpaceObjectType",
+      "category": "Space Content Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpaceObjectOwnerChangedEventArgs",
+      "category": "Space Content Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpaceObjectVariablesChangedEventArgs",
+      "category": "Space Content Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "DestroySpaceObjectRequest",
+      "category": "Space Content Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "ItemPurchasedEventArgs",
+      "category": "Marketplace Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "PurchaseItemRequest",
+      "category": "Marketplace Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "NetworkingRemoteEventArgs",
+      "category": "Networking Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "ServerConnectionStatus",
+      "category": "Networking Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "DataStoreDumpVariablesRequest",
+      "category": "User World Data Store Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "DataStoreGetVariableRequest",
+      "category": "User World Data Store Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "DataStoreHasAnyVariableRequest",
+      "category": "User World Data Store Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "DataStoreHasVariableRequest",
+      "category": "User World Data Store Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "DataStoreOperationRequest",
+      "category": "User World Data Store Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "DataStoreResponseCode",
+      "category": "User World Data Store Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "FloatingTextAnimStyle",
+      "category": "VFX Service Related",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IOwnershipChanged",
+      "category": "Interfaces",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": false,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "IVariablesChanged",
+      "category": "Interfaces",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": false,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "AvatarAnimationClipType",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAttachmentAvatarAnimSettings",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAvatar",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAvatarAnimation",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAvatarAnimOverrides",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAvatarAttachment",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAvatarAttachment.AttachmentAnimatorType",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAvatarAttachment.Category",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAvatarAttachment.Slot",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAvatarAttachment.SlotMask",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": true,
+        "methods": false,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    },
+    {
+      "component": "SpatialAvatarAttachmentSlotMaskExtensions",
+      "category": "Core Components",
+      "hasAllSections": true,
+      "lastVerified": "2025-03-09",
+      "sections": {
+        "overview": true,
+        "properties": false,
+        "methods": true,
+        "events": false,
+        "examples": true,
+        "bestPractices": true,
+        "useCases": true
+      }
+    }
+  ],
+  "completedCategories": [
+    "Ad Service Related",
+    "Camera Service Related",
+    "Actor Service Related",
+    "Core GUI Service Related",
+    "Input Service Related",
+    "Inventory Service Related",
+    "Quest Service Related",
+    "Marketplace Service Related",
+    "Networking Service Related",
+    "User World Data Store Service Related",
+    "VFX Service Related",
+    "Interfaces"
+  ]
+}

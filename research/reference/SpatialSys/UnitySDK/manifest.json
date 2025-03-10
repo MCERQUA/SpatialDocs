@@ -1,0 +1,60 @@
+{
+  "lastUpdate": "2025-03-10",
+  "components": {
+    "Enums": {
+      "AssetType": {
+        "status": "completed",
+        "date": "2025-03-10"
+      },
+      "PackageType": {
+        "status": "completed",
+        "date": "2025-03-10"
+      },
+      "SpaceObjectFlags": {
+        "status": "completed",
+        "date": "2025-03-10"
+      },
+      "SpatialInteractable.IconType": {
+        "status": "completed",
+        "date": "2025-03-10"
+      },
+      "SpatialPlatform": {
+        "status": "completed",
+        "date": "2025-03-10"
+      },
+      "SpatialTriggerEvent.ListenFor": {
+        "status": "completed",
+        "date": "2025-03-10"
+      }
+    }
+  },
+  "categories": {
+    "completed": [
+      "Ad Service Related",
+      "Camera Service Related",
+      "Actor Service Related",
+      "Attributes"
+    ],
+    "inProgress": [
+      "Enums"
+    ]
+  },
+  "statistics": {
+    "primary": {
+      "total": 24,
+      "completed": 24,
+      "percentage": 100
+    },
+    "secondary": {
+      "total": 120,
+      "completed": 20,
+      "percentage": 16.7
+    },
+    "overall": {
+      "total": 144,
+      "completed": 44,
+      "percentage": 30.6
+    },
+    "lastCategory": "Enums"
+  }
+}
