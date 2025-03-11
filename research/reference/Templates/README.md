@@ -7,8 +7,8 @@ This directory contains reference documentation for the various templates availa
 
 ### Current Status (Updated 2025-03-11)
 - Templates identified: 35
-- Templates documented: 11
-- Overall completion: 31.4%
+- Templates documented: 12
+- Overall completion: 34.3%
 
 ## Documentation Structure
 Each template is documented with the following information:
@@ -30,7 +30,7 @@ Each template is documented with the following information:
 - [x] [Obby (Obstacle Course) Game](./Games/ObbyGame.md) - COMPLETED! (3/10/2025)
 - [x] [Top Down Shooter](./Games/TopDownShooter.md) - COMPLETED! (3/11/2025)
 - [x] [Gem Collection Game](./Games/GemCollectionGame.md) - COMPLETED! (3/11/2025)
-- [ ] [Run Master Game](./Games/RunMasterGame.md)
+- [x] [Run Master Game](./Games/RunMasterGame.md) - COMPLETED! (3/11/2025)
 - [ ] [Basketball Game](./Games/BasketballGame.md)
 - [ ] [Hyper Jump Game](./Games/HyperJumpGame.md)
 
@@ -197,6 +197,17 @@ research/reference/Templates/
     - Explained authentication, error handling, and data parsing strategies
     - Included examples for different HTTP methods (GET, POST, PUT, DELETE)
     - Described best practices for security, performance, and error management
+
+12. [Run Master Game](./Games/RunMasterGame.md) - 3/11/2025
+    - Documented complete endless runner game implementation 
+    - Detailed procedural level generation and object pooling system
+    - Provided code examples for runner control, obstacles, and collectibles
+    - Explained game management and difficulty progression
+    - Included mobile optimization techniques and touch controls
+    - Created multi-part documentation due to comprehensive nature:
+      - [Part 1: Core Systems](./Games/RunMasterGame.md)
+      - [Part 2: Level Generation](./Games/RunMasterGame-Part2.md)
+      - [Part 3: Advanced Features](./Games/RunMasterGame-Part3.md)
 
 ## Documentation In Progress
 - None currently in progress
