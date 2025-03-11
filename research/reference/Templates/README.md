@@ -5,10 +5,10 @@ This directory contains reference documentation for the various templates availa
 
 ## Templates Documentation Status
 
-### Current Status (Updated 2025-03-10)
+### Current Status (Updated 2025-03-11)
 - Templates identified: 35
-- Templates documented: 4
-- Overall completion: 11.4%
+- Templates documented: 5
+- Overall completion: 14.3%
 
 ## Documentation Structure
 Each template is documented with the following information:
@@ -28,7 +28,7 @@ Each template is documented with the following information:
 
 ### Game Templates
 - [x] [Obby (Obstacle Course) Game](./Games/ObbyGame.md) - COMPLETED! (3/10/2025)
-- [ ] [Top Down Shooter](./Games/TopDownShooter.md)
+- [x] [Top Down Shooter](./Games/TopDownShooter.md) - COMPLETED! (3/11/2025)
 - [ ] [Gem Collection Game](./Games/GemCollectionGame.md)
 - [ ] [Run Master Game](./Games/RunMasterGame.md)
 - [ ] [Basketball Game](./Games/BasketballGame.md)
@@ -144,8 +144,14 @@ research/reference/Templates/
    - Provided code examples for vehicle control and entry/exit
    - Explained multiplayer synchronization
 
+5. [Top Down Shooter](./Games/TopDownShooter.md) - 3/11/2025
+   - Documented automatic targeting system
+   - Detailed enemy AI implementation
+   - Provided code examples for weapon system and damage calculations
+   - Explained visual feedback system for combat events
+
 ## Documentation In Progress
-- None currently in progress
+- Avatar Input Control (Technical) - Started 3/11/2025
 
 ## Guidelines for Documentation
 - Focus on practical applications of each template
