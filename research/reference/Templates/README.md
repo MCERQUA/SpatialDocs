@@ -7,8 +7,8 @@ This directory contains reference documentation for the various templates availa
 
 ### Current Status (Updated 2025-03-11)
 - Templates identified: 35
-- Templates documented: 10
-- Overall completion: 28.6%
+- Templates documented: 11
+- Overall completion: 31.4%
 
 ## Documentation Structure
 Each template is documented with the following information:
@@ -47,8 +47,8 @@ Each template is documented with the following information:
 ### Technical Templates
 - [x] [Avatar Input Control](./Technical/AvatarInputControl.md) - COMPLETED! (3/11/2025)
 - [x] [GPU Particles](./Technical/GPUParticles.md) - COMPLETED! (3/11/2025)
+- [x] [HTTP Request (Web Request) Demo](./Technical/HTTPRequestDemo.md) - COMPLETED! (3/11/2025)
 - [ ] [WebGL Instancer](./Technical/WebGLInstancer.md)
-- [ ] [HTTP Request (Web Request) Demo](./Technical/HTTPRequestDemo.md)
 - [ ] [Addressables](./Technical/Addressables.md)
 - [ ] [Embedded Package](./Technical/EmbeddedPackage.md)
 
@@ -189,6 +189,14 @@ research/reference/Templates/
     - Explained player synchronization and match coordination
     - Included team assignment and balancing systems
     - Described host migration and network state synchronization
+
+11. [HTTP Request (Web Request) Demo](./Technical/HTTPRequestDemo.md) - 3/11/2025
+    - Documented comprehensive HTTP request system for API integrations
+    - Detailed request management with queueing, caching, and retry mechanisms
+    - Provided code examples for request manager, API service layer, and UI display
+    - Explained authentication, error handling, and data parsing strategies
+    - Included examples for different HTTP methods (GET, POST, PUT, DELETE)
+    - Described best practices for security, performance, and error management
 
 ## Documentation In Progress
 - None currently in progress
