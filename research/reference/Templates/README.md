@@ -7,8 +7,8 @@ This directory contains reference documentation for the various templates availa
 
 ### Current Status (Updated 2025-03-11)
 - Templates identified: 35
-- Templates documented: 8
-- Overall completion: 22.9%
+- Templates documented: 9
+- Overall completion: 25.7%
 
 ## Documentation Structure
 Each template is documented with the following information:
@@ -29,7 +29,7 @@ Each template is documented with the following information:
 ### Game Templates
 - [x] [Obby (Obstacle Course) Game](./Games/ObbyGame.md) - COMPLETED! (3/10/2025)
 - [x] [Top Down Shooter](./Games/TopDownShooter.md) - COMPLETED! (3/11/2025)
-- [ ] [Gem Collection Game](./Games/GemCollectionGame.md)
+- [x] [Gem Collection Game](./Games/GemCollectionGame.md) - COMPLETED! (3/11/2025)
 - [ ] [Run Master Game](./Games/RunMasterGame.md)
 - [ ] [Basketball Game](./Games/BasketballGame.md)
 - [ ] [Hyper Jump Game](./Games/HyperJumpGame.md)
@@ -173,6 +173,14 @@ research/reference/Templates/
      - [Part 1: Main Implementation](./UX/DailyRewards.md)
      - [Part 2: Weekly Calendar View](./UX/DailyRewards-Part2.md)
      - [Part 3: Premium Track & Best Practices](./UX/DailyRewards-Part3.md)
+
+9. [Gem Collection Game](./Games/GemCollectionGame.md) - 3/11/2025
+   - Documented complete gem collection game mechanics
+   - Detailed gem spawning and collection systems
+   - Provided code examples for collectible implementation and scoring
+   - Explained persistence options and progress tracking
+   - Included time challenge mode implementation
+   - Described visual and audio feedback systems
 
 ## Documentation In Progress
 - None currently in progress
