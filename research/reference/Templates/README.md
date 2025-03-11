@@ -7,8 +7,8 @@ This directory contains reference documentation for the various templates availa
 
 ### Current Status (Updated 2025-03-11)
 - Templates identified: 35
-- Templates documented: 12
-- Overall completion: 34.3%
+- Templates documented: 13
+- Overall completion: 37.1%
 
 ## Documentation Structure
 Each template is documented with the following information:
@@ -42,7 +42,7 @@ Each template is documented with the following information:
 
 ### Vehicle Templates
 - [x] [Simple Car Controller](./Vehicles/SimpleCarController.md) - COMPLETED! (3/10/2025)
-- [ ] [Golf Course Driving](./Vehicles/GolfCourseDriving.md)
+- [x] [Golf Course Driving](./Vehicles/GolfCourseDriving.md) - COMPLETED! (3/11/2025)
 
 ### Technical Templates
 - [x] [Avatar Input Control](./Technical/AvatarInputControl.md) - COMPLETED! (3/11/2025)
@@ -101,7 +101,7 @@ research/reference/Templates/
 │   └── ...
 ├── Vehicles/                    # Vehicle templates
 │   ├── SimpleCarController.md
-│   └── ...
+│   └── GolfCourseDriving.md
 ├── Technical/                   # Technical templates
 │   ├── AvatarInputControl.md
 │   ├── GPUParticles.md
@@ -208,6 +208,15 @@ research/reference/Templates/
       - [Part 1: Core Systems](./Games/RunMasterGame.md)
       - [Part 2: Level Generation](./Games/RunMasterGame-Part2.md)
       - [Part 3: Advanced Features](./Games/RunMasterGame-Part3.md)
+
+13. [Golf Course Driving](./Vehicles/GolfCourseDriving.md) - 3/11/2025
+    - Documented complete golf cart physics and driving system
+    - Detailed golf course environment implementation with terrain variations
+    - Provided code examples for vehicle control, cart path following, and time of day system
+    - Explained multiplayer synchronization for multiple golf carts
+    - Included passenger system implementation with driver/passenger roles
+    - Described environmental effects and surface-specific interactions
+    - Added integration with golf gameplay mechanics
 
 ## Documentation In Progress
 - None currently in progress
