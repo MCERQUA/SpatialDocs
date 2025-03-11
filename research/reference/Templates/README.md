@@ -7,11 +7,11 @@ This directory contains reference documentation for the various templates availa
 
 ### Current Status (Updated 2025-03-10)
 - Templates identified: 35
-- Templates documented: 0
-- Overall completion: 0%
+- Templates documented: 4
+- Overall completion: 11.4%
 
 ## Documentation Structure
-Each template will be documented with the following information:
+Each template is documented with the following information:
 - Basic description and overview
 - Features and functionality
 - Included components
@@ -24,10 +24,10 @@ Each template will be documented with the following information:
 ## Categories of Templates
 
 ### Starter Templates
-- [ ] [Spatial Starter Template](./Starter/SpatialStarterTemplate.md)
+- [x] [Spatial Starter Template](./Starter/SpatialStarterTemplate.md) - COMPLETED! (3/10/2025)
 
 ### Game Templates
-- [ ] [Obby (Obstacle Course) Game](./Games/ObbyGame.md)
+- [x] [Obby (Obstacle Course) Game](./Games/ObbyGame.md) - COMPLETED! (3/10/2025)
 - [ ] [Top Down Shooter](./Games/TopDownShooter.md)
 - [ ] [Gem Collection Game](./Games/GemCollectionGame.md)
 - [ ] [Run Master Game](./Games/RunMasterGame.md)
@@ -35,13 +35,13 @@ Each template will be documented with the following information:
 - [ ] [Hyper Jump Game](./Games/HyperJumpGame.md)
 
 ### Camera & Visual Templates
-- [ ] [Camera Modes](./Camera/CameraModes.md)
+- [x] [Camera Modes](./Camera/CameraModes.md) - COMPLETED! (3/10/2025)
 - [ ] [Cinemachine](./Camera/Cinemachine.md)
 - [ ] [Lighting Examples](./Visual/LightingExamples.md)
 - [ ] [Character Shadows](./Visual/CharacterShadows.md)
 
 ### Vehicle Templates
-- [ ] [Simple Car Controller](./Vehicles/SimpleCarController.md)
+- [x] [Simple Car Controller](./Vehicles/SimpleCarController.md) - COMPLETED! (3/10/2025)
 - [ ] [Golf Course Driving](./Vehicles/GolfCourseDriving.md)
 
 ### Technical Templates
@@ -118,6 +118,34 @@ research/reference/Templates/
     ├── Abstract.md
     └── ...
 ```
+
+## Documentation Completed
+1. [Spatial Starter Template](./Starter/SpatialStarterTemplate.md) - 3/10/2025
+   - Documented complete project structure with included assets
+   - Detailed integration with key SDK components
+   - Provided code examples for vehicle and object interaction
+   - Added best practices for template customization
+
+2. [Camera Modes](./Camera/CameraModes.md) - 3/10/2025
+   - Documented all seven camera perspectives
+   - Detailed implementation in both C# and Visual Scripting
+   - Provided code examples for camera mode switching
+   - Explained integration with Spatial's camera system
+
+3. [Obby (Obstacle Course) Game](./Games/ObbyGame.md) - 3/10/2025
+   - Documented modular obstacle system
+   - Detailed checkpoint and respawn systems
+   - Provided code examples for obstacles and moving platforms
+   - Explained integration with Spatial's trigger events
+
+4. [Simple Car Controller](./Vehicles/SimpleCarController.md) - 3/10/2025
+   - Documented third-party vehicle integration
+   - Detailed vehicle input handling and camera system
+   - Provided code examples for vehicle control and entry/exit
+   - Explained multiplayer synchronization
+
+## Documentation In Progress
+- None currently in progress
 
 ## Guidelines for Documentation
 - Focus on practical applications of each template
