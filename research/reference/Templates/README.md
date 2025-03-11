@@ -7,8 +7,8 @@ This directory contains reference documentation for the various templates availa
 
 ### Current Status (Updated 2025-03-11)
 - Templates identified: 35
-- Templates documented: 6
-- Overall completion: 17.1%
+- Templates documented: 7
+- Overall completion: 20.0%
 
 ## Documentation Structure
 Each template is documented with the following information:
@@ -46,8 +46,8 @@ Each template is documented with the following information:
 
 ### Technical Templates
 - [x] [Avatar Input Control](./Technical/AvatarInputControl.md) - COMPLETED! (3/11/2025)
+- [x] [GPU Particles](./Technical/GPUParticles.md) - COMPLETED! (3/11/2025)
 - [ ] [WebGL Instancer](./Technical/WebGLInstancer.md)
-- [ ] [GPU Particles](./Technical/GPUParticles.md)
 - [ ] [HTTP Request (Web Request) Demo](./Technical/HTTPRequestDemo.md)
 - [ ] [Addressables](./Technical/Addressables.md)
 - [ ] [Embedded Package](./Technical/EmbeddedPackage.md)
@@ -104,6 +104,7 @@ research/reference/Templates/
 │   └── ...
 ├── Technical/                   # Technical templates
 │   ├── AvatarInputControl.md
+│   ├── GPUParticles.md
 │   └── ...
 ├── Multiplayer/                 # Multiplayer templates
 │   ├── Matchmaking.md
@@ -155,6 +156,12 @@ research/reference/Templates/
    - Detailed implementation for desktop and mobile controls
    - Provided code examples for input management and avatar control
    - Explained platform-specific considerations and best practices
+
+7. [GPU Particles](./Technical/GPUParticles.md) - 3/11/2025
+   - Documented compute shader-based particle system
+   - Detailed implementations for high-performance particle rendering
+   - Provided code examples for GPU particle simulation and effect triggers
+   - Explained performance optimization techniques and WebGL considerations
 
 ## Documentation In Progress
 - None currently in progress
