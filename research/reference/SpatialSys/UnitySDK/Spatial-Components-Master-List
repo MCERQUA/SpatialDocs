@@ -1,9 +1,11 @@
-Overview
-Introduction
-Services
-SpatialBridge
+<spatial_sdk_components>
+# Spatial SDK Component Reference
+This is the definitive list of all Spatial SDK components with exact spelling and categorization.
 
-Actor Service
+## Services
+### SpatialBridge
+
+###Actor Service
 ActorCustomPropertiesChangedEventArgs
 ActorJoinedEventArgs
 ActorLeftEventArgs
@@ -16,24 +18,24 @@ IAvatar
 ILocalActor
 IReadOnlyAvatar
 
-Ad Service
+### Ad Service
 AdRequest
 IAdService
 SpatialAdType
 
-Audio Service
+### Audio Service
 IAudioService
 
-Badge Service
+### Badge Service
 IBadgeService
 
-Camera Service
+### Camera Service
 ICameraService
 SpatialCameraMode
 SpatialCameraRotationMode
 XRCameraMode
 
-Core GUI Service
+### Core GUI Service
 CoreGUIUtility
 ICoreGUIService
 ICoreGUIShopService
@@ -43,13 +45,13 @@ SpatialCoreGUITypeFlags
 SpatialMobileControlsGUITypeFlags
 SpatialSystemGUIType
 
-Event Service
+### Event Service
 IEventService
 
-Graphics Service
+### Graphics Service
 IGraphicsService
 
-Input Service
+### Input Service
 IAvatarInputActionsListener
 IInputActionsListener
 IInputService
@@ -58,7 +60,7 @@ InputPhase
 IVehicleInputActionsListener
 VehicleInputFlags
 
-Inventory Service
+### Inventory Service
 AddInventoryItemRequest
 AwardWorldCurrencyRequest
 DeleteInventoryItemRequest
@@ -68,21 +70,21 @@ IInventoryService
 ItemType
 UseInventoryItemRequest
 
-Logging Service
+### Logging Service
 ILoggingService
 
-Marketplace Service
+### Marketplace Service
 IMarketplaceService
 ItemPurchasedEventArgs
 PurchaseItemRequest
 
-Networking Service
+### Networking Service
 INetworkingRemoteEventsService
 INetworkingService
 NetworkingRemoteEventArgs
 ServerConnectionStatus
 
-Quest Service
+### Quest Service
 IQuest
 IQuestService
 IQuestTask
@@ -91,7 +93,7 @@ QuestStatus
 QuestTaskType
 RewardType
 
-Space Content Service
+### Space Content Service
 DestroySpaceObjectRequest
 IPrefabObject
 IReadOnlyPrefabObject
@@ -109,10 +111,10 @@ SpawnNetworkObjectRequest
 SpawnPrefabObjectRequest
 SpawnSpaceObjectRequest
 
-Space Service
+### Space Service
 ISpaceService
 
-User World Data Store Service
+### User World Data Store Service
 DataStoreDumpVariablesRequest
 DataStoreGetVariableRequest
 DataStoreHasAnyVariableRequest
@@ -121,12 +123,12 @@ DataStoreOperationRequest
 DataStoreResponseCode
 IUserWorldDataStoreService
 
-VFX Service
+### VFX Service
 FloatingTextAnimStyle
 IVFXService
 Core
 
-Components
+### Components
 AvatarAnimationClipType
 SpatialAttachmentAvatarAnimSettings
 SpatialAvatar
@@ -164,13 +166,13 @@ SpatialThumbnailCamera
 SpatialTriggerEvent
 SpatialVirtualCamera
 
-Scriptable Objects
+### Scriptable Objects
 SpatialMovementMaterial
 SpatialScriptableObjectBase
 SpatialSFX
 Other
 
-Classes
+### Classes
 APINotAuthorizedException
 AttachmentAnimationClips
 AttachmentAvatarAnimConfig
@@ -185,7 +187,7 @@ SpatialNetworkBehaviour
 ToggleWithEnum
 VisualScriptingUtility
 
-Enums
+### Enums
 AssetType
 PackageType
 SpaceObjectFlags
@@ -193,10 +195,17 @@ SpatialInteractable.IconType
 SpatialPlatform
 SpatialTriggerEvent.ListenFor
 
-Interfaces
+### Interfaces
 IOwnershipChanged
 IVariablesChanged
 
-Structs
+### Structs
 NetworkObjectOwnershipChangedEventArgs
 NetworkObjectVariablesChangedEventArgs
+
+## Important Implementation Notes
+1. Always refer to this list for the correct spelling and categorization of components
+2. Documentation should exactly match the GitHub source files without AI enhancements
+3. The SpatialCameraMode enum values are Actor and Vehicle (not FirstPerson/ThirdPerson/XR)
+4. Do not add events or properties not explicitly documented in the GitHub files
+</spatial_sdk_components>
