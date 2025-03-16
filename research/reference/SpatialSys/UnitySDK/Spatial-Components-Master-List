@@ -1,0 +1,202 @@
+Overview
+Introduction
+Services
+SpatialBridge
+
+Actor Service
+ActorCustomPropertiesChangedEventArgs
+ActorJoinedEventArgs
+ActorLeftEventArgs
+ActorProfilePictureRequest
+AvatarRespawnEventArgs
+EquipAttachmentRequest
+IActor
+IActorService
+IAvatar
+ILocalActor
+IReadOnlyAvatar
+
+Ad Service
+AdRequest
+IAdService
+SpatialAdType
+
+Audio Service
+IAudioService
+
+Badge Service
+IBadgeService
+
+Camera Service
+ICameraService
+SpatialCameraMode
+SpatialCameraRotationMode
+XRCameraMode
+
+Core GUI Service
+CoreGUIUtility
+ICoreGUIService
+ICoreGUIShopService
+SpatialCoreGUIState
+SpatialCoreGUIType
+SpatialCoreGUITypeFlags
+SpatialMobileControlsGUITypeFlags
+SpatialSystemGUIType
+
+Event Service
+IEventService
+
+Graphics Service
+IGraphicsService
+
+Input Service
+IAvatarInputActionsListener
+IInputActionsListener
+IInputService
+InputCaptureType
+InputPhase
+IVehicleInputActionsListener
+VehicleInputFlags
+
+Inventory Service
+AddInventoryItemRequest
+AwardWorldCurrencyRequest
+DeleteInventoryItemRequest
+GetInventoryItemRequest
+IInventoryItem
+IInventoryService
+ItemType
+UseInventoryItemRequest
+
+Logging Service
+ILoggingService
+
+Marketplace Service
+IMarketplaceService
+ItemPurchasedEventArgs
+PurchaseItemRequest
+
+Networking Service
+INetworkingRemoteEventsService
+INetworkingService
+NetworkingRemoteEventArgs
+ServerConnectionStatus
+
+Quest Service
+IQuest
+IQuestService
+IQuestTask
+IReward
+QuestStatus
+QuestTaskType
+RewardType
+
+Space Content Service
+DestroySpaceObjectRequest
+IPrefabObject
+IReadOnlyPrefabObject
+IReadOnlySpaceObject
+IReadOnlySpaceObjectComponent
+ISpaceContentService
+ISpaceObject
+ISpaceObjectComponent
+SpaceObjectOwnerChangedEventArgs
+SpaceObjectOwnershipTransferRequest
+SpaceObjectType
+SpaceObjectVariablesChangedEventArgs
+SpawnAvatarRequest
+SpawnNetworkObjectRequest
+SpawnPrefabObjectRequest
+SpawnSpaceObjectRequest
+
+Space Service
+ISpaceService
+
+User World Data Store Service
+DataStoreDumpVariablesRequest
+DataStoreGetVariableRequest
+DataStoreHasAnyVariableRequest
+DataStoreHasVariableRequest
+DataStoreOperationRequest
+DataStoreResponseCode
+IUserWorldDataStoreService
+
+VFX Service
+FloatingTextAnimStyle
+IVFXService
+Core
+
+Components
+AvatarAnimationClipType
+SpatialAttachmentAvatarAnimSettings
+SpatialAvatar
+SpatialAvatarAnimation
+SpatialAvatarAnimOverrides
+SpatialAvatarAttachment
+SpatialAvatarAttachment.AttachmentAnimatorType
+SpatialAvatarAttachment.Category
+SpatialAvatarAttachment.Slot
+SpatialAvatarAttachment.SlotMask
+SpatialAvatarAttachmentSlotMaskExtensions
+SpatialAvatarDefaultAnimSetType
+SpatialAvatarTeleporter
+SpatialCameraPassthrough
+SpatialClimbable
+SpatialEmptyFrame
+SpatialEntrancePoint
+SpatialEnvironmentSettingsOverrides
+SpatialInteractable
+SpatialMovementMaterialSurface
+SpatialNetworkObject
+SpatialNetworkVariables
+SpatialNetworkVariables.Data
+SpatialPointOfInterest
+SpatialPrefabObject
+SpatialProjectorSurface
+SpatialQuest
+SpatialQuest.Reward
+SpatialQuest.Task
+SpatialRenderPipelineSettingsOverrides
+SpatialSeatHotspot
+SpatialSyncedAnimator
+SpatialSyncedObject
+SpatialThumbnailCamera
+SpatialTriggerEvent
+SpatialVirtualCamera
+
+Scriptable Objects
+SpatialMovementMaterial
+SpatialScriptableObjectBase
+SpatialSFX
+Other
+
+Classes
+APINotAuthorizedException
+AttachmentAnimationClips
+AttachmentAvatarAnimConfig
+ClampAttribute
+DocumentationCategoryAttribute
+MinMaxAttribute
+NetworkVariable<T>
+ReadOnlyAttribute
+SpatialAsyncOperation
+SpatialAsyncOperationExtensions
+SpatialNetworkBehaviour
+ToggleWithEnum
+VisualScriptingUtility
+
+Enums
+AssetType
+PackageType
+SpaceObjectFlags
+SpatialInteractable.IconType
+SpatialPlatform
+SpatialTriggerEvent.ListenFor
+
+Interfaces
+IOwnershipChanged
+IVariablesChanged
+
+Structs
+NetworkObjectOwnershipChangedEventArgs
+NetworkObjectVariablesChangedEventArgs
