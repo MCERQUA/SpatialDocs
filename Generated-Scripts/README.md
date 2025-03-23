@@ -22,6 +22,22 @@ This script implements the equivalent functionality of a Visual Scripting graph 
 
 **Documentation:** Full documentation is available in our Pinecone database with ID: `spatial-sdk-example-periodic-currency-rewarder`
 
+### DoorwayPortal.cs
+A script that creates a custom portal trigger for teleporting between Spatial spaces. When a player enters the trigger area, they are teleported to another space.
+
+**Features:**
+- Configurable destination space ID
+- Optional confirmation popup toggle
+- Support for visual effects when triggered
+- Uses the latest TeleportToSpace functionality from Creator Toolkit v1.58+
+
+**Implementation Details:**
+- Uses trigger colliders to detect when a player enters the portal area
+- Adds a slight delay to allow visual effects to display before teleporting
+- Utilizes `SpatialBridge.spaceService.TeleportToSpace()` for the actual teleportation
+
+**Documentation:** Full documentation is available in our Pinecone database with ID: `spatial-sdk-example-doorway-portal`
+
 ## Usage Guidelines
 
 1. Copy the desired script into your Unity project
